@@ -6,7 +6,7 @@
 Odin Recipes is a project that aims to showcase three delicious dishes: Hamburger, Pizza, and Hotdog. This project serves as a practical exercise to demonstrate HTML skills allowing users to explore and learn more about these mouthwatering recipes.
 Here this project is describing the  HTML(Hypertext Markup language),HTML is language for creating web pages, and understanding its fundamentals is essential for anyone looking to pursue a career in web development or design.
 
-## Skills covered in in this projects
+## Skills covered in this projects
 
 After covered this HTML course,arleady now i can describing this skills;
 HTML Structure: I understood HTML syntax, elements, and attributes.
